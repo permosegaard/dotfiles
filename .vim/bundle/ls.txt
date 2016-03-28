@@ -1,0 +1,5 @@
+rust.vim
+syntastic
+vim-airline
+vim-gitgutter
+YouCompleteMe
